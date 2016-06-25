@@ -1,4 +1,4 @@
-Data Import Tool
+Data Import Tool For Mifos
 ================
 
 [![Join the chat at https://gitter.im/openMF/DataImportTool](https://badges.gitter.im/openMF/DataImportTool.svg)](https://gitter.im/openMF/DataImportTool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
